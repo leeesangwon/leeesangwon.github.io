@@ -978,12 +978,16 @@ $baseurl: '{{ site.baseurl }}/images';
 		.content {
 			@include padding(2em, 4em);
 			@include vendor('order', '2');
-			max-width: 48em;
+		}
+		.content-wrap {
 			width: 60%;
 		}
-
+		&:nth-child(1n) {
+			text-align: right;
+		}
 		&:nth-child(2n) {
 			@include vendor('flex-direction', 'row-reverse');
+			text-align: left;
 		}
 
 		@for $i from 1 through _misc(max-spotlights) {
@@ -998,9 +1002,11 @@ $baseurl: '{{ site.baseurl }}/images';
 			.image {
 				width: 45%;
 			}
-
 			.content {
 				width: 55%;
+			}
+			.content-wrap {
+				width: 60%;
 			}
 		}
 
@@ -1019,6 +1025,9 @@ $baseurl: '{{ site.baseurl }}/images';
 				@include padding(4em, 3em);
 				max-width: none;
 				text-align: center;
+				width: 100%;
+			}
+			.content-wrap {
 				width: 100%;
 			}
 		}

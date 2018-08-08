@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: leee.sangwon
+title: Sangwon.Lee
 description: |
   Master's student  
   Electrical Engineering, Korea University  
@@ -11,6 +11,7 @@ first_published: 2018 # if migrating another site, the year of your first publis
 email: leee.sangwon@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leeesangwon.github.io" # the base hostname & protocol for your site
+include: ['_pages',]
 social:
   # twitter: https://twitter.com/<username>
   github: https://github.com/leeesangwon
