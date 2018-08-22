@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Publications
+intro: 1 journal article and 4 conference papers
 permalink: /publications/
 image: publications.jpg
 background-image: publications.jpg
+id: 1
 ---
 
 ### Journal Articles
@@ -12,7 +14,7 @@ background-image: publications.jpg
 
 ---
 
-### Converence Papers
+### Conference Papers
 
 - Jee-Young Sun, **Sang-Won Lee**, Mun-Cheon Kang, Seung-Wook Kim, Seung-Young Kim and Sung-Jea Ko, “A Novel Gastric Ulcer Differentiation System Using Convolutional Neural Networks,” in *CBMS 2018*.
 
@@ -21,7 +23,3 @@ background-image: publications.jpg
 - Dae-Hong Lee, **Sang-Won Lee**, Seo-Won Ji, and Sung-Jea Ko, "Display-Adaptive Tone Mapping Operator Based on a Retina Response Model," in *ICEIC 2018*, Jan 2018.
 
 - Hyong-Keun Kook, **Sang-Won Lee**, Sueng-Wook Kim, Young-Hyun Kim, and Sung-Jea Ko , "Object Detection with Multi-Scale Context Aggregation," in *ICEIC 2018*, Jan 2018.
-
----
-
-### Domestic Papers
