@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-intro: 1 journal article and 4 conference papers
+intro: 1 journal article and 5 conference papers
 permalink: /publications/
 image: publications.jpg
 background-image: publications.jpg
