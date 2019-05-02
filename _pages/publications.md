@@ -16,6 +16,8 @@ id: 1
 
 ### Conference Papers
 
+- Seung-Wook Kim, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, **Sang-Won Lee**, and Sung-Jea Ko, "Evaluating Parameterization Methods for Convolutional Neural Network (CNN)-Based Image Operators," to appear in CVPRW 2019.
+
 - Jee-Young Sun, **Sang-Won Lee**, Mun-Cheon Kang, Seung-Wook Kim, Seung-Young Kim and Sung-Jea Ko, “A Novel Gastric Ulcer Differentiation System Using Convolutional Neural Networks,” in *CBMS 2018*.
 
 - **Sang-Won Lee**, Sung-Ho Chae, Sung-Tae Kim, Bo-Sang Kim, Yoon-Jae Yeo, and Sung-Jea Ko, “Extra supervision using hierarchical contextual auxiliary loss,” in *ITC-CSCC 2018*. pp.870-871.
