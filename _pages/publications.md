@@ -16,7 +16,11 @@ id: 1
 
 ### Conference Papers
 
-- Seung-Wook Kim, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, **Sang-Won Lee**, and Sung-Jea Ko, "Evaluating Parameterization Methods for Convolutional Neural Network (CNN)-Based Image Operators," to appear in CVPRW 2019.
+- Jee-Young Sun, Seung-Wook Kim, **Sang-Won Lee**, Ye-Won Kim, and Sung-Jea, "Reverse and Boundary Attention Network for Road Segmentation," to appear in *ICCVW 2019*.
+
+- Jee-Young Sun, **Sang-Won Lee**, Ye-Won Kim, Bo-Sang Kim and Sung-Jea Ko, "A Deep Interactive Segmentation Method with User Interaction-based Attention Module and Polar Transformation," to appear in *ICMV 2019*.
+
+- Seung-Wook Kim, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, **Sang-Won Lee**, and Sung-Jea Ko, "Evaluating Parameterization Methods for Convolutional Neural Network (CNN)-Based Image Operators," in *CVPRW 2019*.
 
 - Jee-Young Sun, **Sang-Won Lee**, Mun-Cheon Kang, Seung-Wook Kim, Seung-Young Kim and Sung-Jea Ko, “A Novel Gastric Ulcer Differentiation System Using Convolutional Neural Networks,” in *CBMS 2018*.
 
@@ -24,4 +28,4 @@ id: 1
 
 - Dae-Hong Lee, **Sang-Won Lee**, Seo-Won Ji, and Sung-Jea Ko, "Display-Adaptive Tone Mapping Operator Based on a Retina Response Model," in *ICEIC 2018*, Jan 2018.
 
-- Hyong-Keun Kook, **Sang-Won Lee**, Sueng-Wook Kim, Young-Hyun Kim, and Sung-Jea Ko , "Object Detection with Multi-Scale Context Aggregation," in *ICEIC 2018*, Jan 2018.
+- Hyong-Keun Kook, Sueng-Wook Kim, **Sang-Won Lee**, Young-Hyun Kim, and Sung-Jea Ko , "Object Detection with Multi-Scale Context Aggregation," in *ICEIC 2018*, Jan 2018.
